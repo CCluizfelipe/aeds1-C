@@ -1,2 +1,3 @@
 # aeds1-C
-Exercícios de Algoritmos e Estruturas de Dados 1 feitos em linguagem C.
+Repositório de códigos da disciplina de Algoritmos e Estrutura de Dados I feitos em linguagem C.
+
