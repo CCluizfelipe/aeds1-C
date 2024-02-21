@@ -66,4 +66,7 @@ Versao         Data           Modificacao
 Versao     Teste
 0.0        01.(OK)          indentificacao do programa
 0.1        01.(OK)          indentificacao do programa
-0.2        0.1(OK)          indentificacao do programa 
+0.2        0.1(OK)          indentificacao do programa
+                            leitura e exibicação de um inteiro
+
+*/
