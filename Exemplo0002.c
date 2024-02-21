@@ -45,7 +45,7 @@ int main (int argc, char* argv[])
 } // end main()
 
 /*
----------------------------------- documentação complementar
+---------------------------------- documentaÃ§Ã£o complementar
 
 ---------------------------------- notas / observacoes/ comentario
 
@@ -58,11 +58,12 @@ c.) 123456789
 ---------------------------------- historico
 
 Versao         Data           Modificacao
-0.0            21/02            esboco
+0.1            21/02            esboco
+0.2            21/02          mudanca de versao
 
 ---------------------------------- testes
 
 Versao     Teste
-0.0        01.(ok)           indentificacao do programa
-                            leitura e exibicao de inteiro
-*/
+0.0        01.(OK)          indentificacao do programa
+0.1        01.(OK)          indentificacao do programa
+0.2        0.1(OK)          indentificacao do programa 
