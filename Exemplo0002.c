@@ -11,8 +11,8 @@ Windows:   exemplo0002
 
 // dependencias
 
-#include <stdio.h> // biblioteca de entradas e saidas
-
+#include <stdio.h>  // biblioteca de entradas e saidas
+#include <stdlib.h> // biblioteca para funcoes gerais
 /* Funcao principal
 @return codigo de encerramento
 @param argc - quantidade de parametos na linha de comandos
