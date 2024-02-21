@@ -34,7 +34,7 @@ int main (int argc, char* argv[])
 
 // para mostrar opcpoes
    printf("\n%s\n", "Opcoes:" );
-   printf("\n%s"  , "Terminar");
+   printf("\n%s"  , "0 - Terminar");
 
 // ler opcao do teclado
    printf ("\n%s", " Opcao = ");
@@ -62,7 +62,7 @@ int main (int argc, char* argv[])
 } // end main()
 
 /*
----------------------------------- documentação complementar
+---------------------------------- documentaÃ§Ã£o complementar
 
 ---------------------------------- notas / observacoes/ comentario
 
@@ -84,7 +84,7 @@ Versao     Teste
 0.0        01.(OK)          indentificacao do programa
 0.1        01.(OK)          indentificacao do programa
 0.2        01.(OK)          indentificacao do programa
-                            leitura e exibicação de um inteiro
+                            leitura e exibicaÃ§Ã£o de um inteiro
 0.3        01.(OK)          indentificacao do programa
-                            leitura e exibicação mediante escolha
+                            leitura e exibicaÃ§Ã£o mediante escolha
 */
