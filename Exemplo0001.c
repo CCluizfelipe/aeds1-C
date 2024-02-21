@@ -34,12 +34,12 @@ int main (int argc, char* argv[])
 // encerrar
 
    printf("\n\nApertar ENTER para terminar.");
-   getchar();         //aguardar por ENTE
+   getchar();         //aguardar por ENTER
    return ( 0 );      // voltar ao SO (sem erros)
 } // end main()
 
 /*
----------------------------------- documentação complementar
+---------------------------------- documentaÃ§Ã£o complementar
 
 ---------------------------------- notas / observacoes/ comentario
 
